@@ -1,0 +1,5 @@
+streamlit
+google_play_scraper
+Pillow
+openai
+python-dotenv
